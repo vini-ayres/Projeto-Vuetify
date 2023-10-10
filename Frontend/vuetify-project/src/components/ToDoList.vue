@@ -116,7 +116,7 @@
 export default {
   data() {
     return {
-      toDoTasks: ['Tarefa 1', 'Tarefa 2', 'Tarefa 3'],
+      toDoTasks: [],
       inProgressTasks: [],
       doneTasks: [],
       newTask: '',
